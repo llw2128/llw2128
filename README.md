@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Leon 
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=llw2128&style=for-the-badge">
+</a>
+
+-I am currently a Junior studying Computer Science at Columbia University
+<br>
+-I am passionate about topics in NLP and Software Engineering
 
 <!--
 **llw2128/llw2128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
