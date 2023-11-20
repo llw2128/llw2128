@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=llw2128&style=for-the-badge">
 </a>
 
--I am currently a Junior studying Computer Science at Columbia University
+-I am currently a Senior studying Computer Science at Columbia University
 <br>
 -I am passionate about topics in NLP and Software Engineering
 
